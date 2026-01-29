@@ -185,6 +185,13 @@
       "balance": "5000",
       "expenses": [],
       "id": "b7MWZw3"
+    },
+    {
+      "username": "amrutha",
+      "password": "amrutha",
+      "balance": "3000",
+      "expenses": [],
+      "id": "5-9sv6U"
     }
   ],
   "expenses": [
@@ -299,6 +306,13 @@
       "quantity": 2,
       "userId": "ULlfmwM",
       "id": "DUmjsV5"
+    },
+    {
+      "name": "food",
+      "amount": 1000,
+      "quantity": 1,
+      "userId": "5-9sv6U",
+      "id": "R3736Hg"
     }
   ]
 }
